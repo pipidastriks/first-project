@@ -1,0 +1,15 @@
+body{
+    background-color: #FFE8D1; 
+    
+}
+.shool{
+    text-align: center; margin-top: 50px;margin-bottom: 50px;
+}
+.container{
+    margin: 0 auto;
+}
+.btn{
+    background-color: #FFCB8B; 
+    font-size:64px ;
+    padding: 5px 10px;
+} 
